@@ -24,7 +24,7 @@ Well, that is the purpose of this project. Not only for the top players you can 
 5. The data for the username you provide is also fetched similarly and visualized
 
 ## What did I get
-Here I have analyzed min 100 games per player each. We can see that the top players prefer e4 more as white and Nf6 as black in the blitz games.
+Here I have analyzed min 100 games per player each. We can see that the top players prefer e4 as white and Nf6 as black in the blitz games.
 
 ![topplayer](Images/topplayers.png)
 
@@ -32,7 +32,7 @@ For the bullet games we have d4 as a preferred opening from white and Nf6 still 
 
 ![bullet](Images/bullet.png)
 
-I would like to point out that out of the top 50 players provided by the leaderboard, many players haven't played much games(some only play important online tournaments and don't play casual online chess ), so the results could have a bias towards those players that have played more games. Ex- GM Hikaru has played a lot of games, but GM Ding Liren hasn't played much. But most players have atleast 100 games, that's why I have fetched 100 games per player only.
+I would like to point out that out of the top 50 players provided by the leaderboard, many players haven't played a lot of games(some only play important online tournaments and don't play casual online chess ), so the results could have a bias towards those players that have played more games. Ex- GM Hikaru has played a lot of games, but GM Ding Liren hasn't played much. But most players have atleast 100 games, that's why I have only fetched 100 games per player.
 
 
 ## How to do the same

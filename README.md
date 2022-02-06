@@ -17,14 +17,14 @@ Well, that is the purpose of this project. Not only for the top players you can 
 
 ## What I did
 
-1. Fetch the data from [chess.com api](https://www.chess.com/news/view/published-data-api)
-2. Using the leaderboard data from the api I created a top players database
-3. Then I fetched the game data for those players, from where opening moves are obtained
-4. The data is then analyzed and visualized on a streamlit app
-5. The data for the username you provide is also fetched similarly and visualized
+1. Fetched the data from [chess.com api](https://www.chess.com/news/view/published-data-api)
+2. Created a top players database using the leaderboard data from the api
+3. Collected the game data for those players, from where opening moves are obtained
+4. Analyzed and visualized the data on a streamlit app
+5. For the username you provide, data is fetched similarly and visualized
 
 ## What did I get
-Here I have analyzed min 100 games per player each. We can see that the top players prefer e4 as white and Nf6 as black in the blitz games.
+Here I have analyzed min 100 games per player. We can see that the top players prefer e4 as white and Nf6 as black in the blitz games.
 
 ![topplayer](Images/topplayers.png)
 
